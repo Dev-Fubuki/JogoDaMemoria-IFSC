@@ -1,6 +1,6 @@
 # 🧠 Jogo de Memória em C
 
-Este é um projeto desenvolvido durante a disciplina **Introdução à Programação** em 2023. Realizado como Prova Final aplicada pelo Professor **Fernando** (IFSC - Campus Canoinhas).
+Este é um projeto desenvolvido como trabalho avaliativo da disciplina **Introdução à Programação** em 2023. Realizado como Prova Final aplicada pelo Professor **Fernando** (IFSC - Campus Canoinhas).
 
 ![Image](https://github.com/user-attachments/assets/91ecf750-8fe9-4e82-a267-143a47254a38)
 
